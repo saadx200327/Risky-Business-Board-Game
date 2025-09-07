@@ -1,0 +1,12 @@
+.board-space {
+  border: 2px solid #4ECDC4;
+  display: inline-block;
+  width: 44px;
+  height: 44px;
+  margin: 3px;
+  text-align: center;
+  line-height: 44px;
+  font-size: 1.1em;
+  border-radius: 9px;
+  background: #fff;
+}
